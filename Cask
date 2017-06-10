@@ -1,0 +1,11 @@
+(source gnu)
+(source melpa)
+
+(depends-on "magit")
+(depends-on "auto-complete")
+(depends-on "helm")
+(depends-on "undo-tree")
+(depends-on "expand-region")
+(depends-on "smartparens-config")
+(depends-on "rainbow-delimeters")
+(depends-on "flycheck")
