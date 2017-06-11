@@ -13,3 +13,4 @@
 (depends-on "sequential-command")
 (depends-on "powerline")
 (depends-on "smartrep")
+(depends-on "yasnippet")
